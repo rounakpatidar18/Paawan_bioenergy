@@ -4,7 +4,7 @@ export default function About() {
       <div className="container">
         {/* Page Heading */}
         <div className="text-center mb-5">
-          <h1 className="fw-bold">About Pawan Bio Energy</h1>
+          <h1 className="fw-bold">About Paawan Bio Energy</h1>
           <p className="text-muted">
             Driving sustainable energy through innovation and responsibility
           </p>
@@ -15,7 +15,7 @@ export default function About() {
           <div className="col-md-6">
             <h3>Who We Are</h3>
             <p>
-              <strong>Pawan Bio Energy</strong> is a renewable energy company
+              <strong>Paawan Bio Energy</strong> is a renewable energy company
               focused on producing eco-friendly bio-coal and biomass solutions.
               Our goal is to replace traditional fossil fuels with cleaner,
               sustainable alternatives.

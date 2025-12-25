@@ -15,7 +15,7 @@ export default function Sustainability() {
           <div className="col-md-6">
             <h3>Environmental Responsibility</h3>
             <p>
-              At <strong>Pawan Bio Energy</strong>, sustainability is at the
+              At <strong>Paawan Bio Energy</strong>, sustainability is at the
               core of everything we do. Our bio-energy products help industries
               significantly reduce greenhouse gas emissions.
             </p>

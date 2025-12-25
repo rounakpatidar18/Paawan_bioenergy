@@ -5,7 +5,7 @@ export default function Navbar() {
     <nav className="navbar navbar-expand-lg navbar-dark bg-success">
       <div className="container">
         <Link className="navbar-brand fw-bold" to="/">
-          Pawan Bio Energy
+          Paawan Bio Energy
         </Link>
 
         <button

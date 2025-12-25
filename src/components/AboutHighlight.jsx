@@ -7,14 +7,14 @@ export default function AboutHighlight() {
             <div className="about-img-wrapper">
               <img
                 src="/src/assets/images/about1.jpg"
-                alt="About Pawan Bio Energy"
+                alt="About Paawan Bio Energy"
                 className="img-fluid"
               />
             </div>
           </div>
 
           <div className="col-md-7" data-aos="fade-left">
-            <h2>WE ARE PAWAN BIO ENERGY</h2>
+            <h2>WE ARE PAAWAN BIO ENERGY</h2>
             <p>
               Dedicated to transforming waste into clean energy, we lead the
               industry in sustainable bio-coal manufacturing.
